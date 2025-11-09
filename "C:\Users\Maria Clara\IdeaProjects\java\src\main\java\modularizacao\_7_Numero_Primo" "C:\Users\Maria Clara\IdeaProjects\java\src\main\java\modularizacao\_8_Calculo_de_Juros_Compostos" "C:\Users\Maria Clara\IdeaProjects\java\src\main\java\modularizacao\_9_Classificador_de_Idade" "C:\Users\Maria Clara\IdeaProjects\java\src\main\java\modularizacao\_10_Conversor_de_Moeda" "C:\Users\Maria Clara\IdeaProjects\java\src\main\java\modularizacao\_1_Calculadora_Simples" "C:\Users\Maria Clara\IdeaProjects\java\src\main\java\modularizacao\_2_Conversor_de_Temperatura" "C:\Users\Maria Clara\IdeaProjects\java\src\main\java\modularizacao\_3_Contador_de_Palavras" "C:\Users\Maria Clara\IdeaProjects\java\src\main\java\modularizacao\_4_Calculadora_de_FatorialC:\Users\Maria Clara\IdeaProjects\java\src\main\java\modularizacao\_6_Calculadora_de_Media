@@ -1,0 +1,6 @@
+cd "C:\Users\Maria Clara\IdeaProjects\java"
+git add .
+git commit -m "Adiciona exercícios de modularização (_1 a _10)"
+git remote add origin https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git
+git branch -M main
+git push -u origin main
